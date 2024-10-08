@@ -1,8 +1,11 @@
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap" rel="stylesheet">
+
 <style>
 body {
     font-family: 'Poppins', sans-serif;
 }
 </style>
+
 # Startup Success Prediction Project <img src="https://i.pinimg.com/originals/bd/78/b5/bd78b57fa09b08793f3e018bb549b49b.gif" width="40px" align="right">
 
 ## Overview
