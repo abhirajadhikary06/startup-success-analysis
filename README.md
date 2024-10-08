@@ -1,4 +1,9 @@
-# Startup Success Prediction Project
+<style>
+body {
+    font-family: 'Poppins', sans-serif;
+}
+</style>
+# Startup Success Prediction Project <img src="https://i.pinimg.com/originals/bd/78/b5/bd78b57fa09b08793f3e018bb549b49b.gif" width="40px" align="right">
 
 ## Overview
 
