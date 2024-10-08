@@ -1,4 +1,4 @@
-# Startup Success Prediction Project <img src="https://i.pinimg.com/originals/bd/78/b5/bd78b57fa09b08793f3e018bb549b49b.gif" width="200px" align="right">
+# Startup Success Prediction Project <img src="https://i.pinimg.com/originals/bd/78/b5/bd78b57fa09b08793f3e018bb549b49b.gif" width="80px" align="right">
 
 ## Overview
 
